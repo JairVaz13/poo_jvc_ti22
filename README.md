@@ -4,5 +4,6 @@
 
 |No.|Archivo|Descripcion|
 |--|--|--|
-|1|programacion0.py|Hola mundo en Python3|
-
+|0|programa0.py|Hola mundo en Python3|
+|1|programa1.py|comentarios multilineas y concatenar|
+|2|programa2.py|almacenar variables, suma de las variables y separacion de las variables
