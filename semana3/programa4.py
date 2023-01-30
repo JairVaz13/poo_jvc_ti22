@@ -2,7 +2,7 @@
 programa1
 nombre: jair vazquez cordero
 fecha: 30/01/2023
-descripcion:utilizando input para hacer castig para dar str  
+descripcion:utilizando input para hacer casting para dar str  
 """
 numero1 = input("numero 1: ")
 numero2 = 10
