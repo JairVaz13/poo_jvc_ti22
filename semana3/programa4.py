@@ -16,9 +16,3 @@ print(divicion)
 print(multiplicacion)
 print(resta)
 print(suma)
-
-
-
-
-
-
